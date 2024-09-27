@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack @noahsark.games
 - 👀 I’m interested in ...creating solutions to problems using Python, particularly focusing on automation of cumbersome tasks.
-- 🌱 I’m currently learning ... a working confidence with Python
+- 🌱 I’m currently learning ... to gain a working confidence with Python
 - 📫 How to reach me ... LinkedIn -> https://www.linkedin.com/in/jackhsomers/  Email -> jack@noahsark.games
 - ⚡ Fun fact: ... I can gleek on demand.
 
